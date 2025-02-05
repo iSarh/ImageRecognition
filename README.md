@@ -18,7 +18,7 @@ This project demonstrates an image recognition system trained using **Teachable 
 
 ## Installation & Setup
 ### Prerequisites
-Ensure you have **Python 3.x** installed along with the required dependencies:
+Ensure you have **Python 3.11** installed along with the required dependencies:
 ```sh
 pip install tensorflow pillow numpy
 ```
