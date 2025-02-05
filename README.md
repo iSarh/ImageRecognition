@@ -43,11 +43,10 @@ The output will display the predicted class of the image.
 4. Output the predicted class based on the model's confidence scores.
 
 ## Example Output
-```
+
 ![Screenshot 2025-02-06 020937](https://github.com/user-attachments/assets/7b046e00-24e1-4d7d-811c-8b5e84a2efee)
 ![Screenshot 2025-02-06 023330](https://github.com/user-attachments/assets/c60d5318-eaa4-48a4-990b-2d01567e44a4)
 
-```
 
 ## Model Training Steps
 1. **Teachable Machine** was used to train a model with `sunflower` and `black-eyed-susan` classes.
