@@ -30,7 +30,7 @@ def predict_image_class(image_path):
    # output_layer_name = list(predictions.keys())[0]  # Automatically get the first output key
    # print(f"Using output layer: {output_layer_name}")
 
-    predicted_class = np.argmax(predictions['sequential_19'].numpy(), axis=1)
+    predicted_class = np.argmax(predictions['sequential_19'].numpy(), axis=1) #Replace 'sequential_19' with your "(output_layer_name)"
     return predicted_class[0]
 
 
