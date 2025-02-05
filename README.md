@@ -1,4 +1,4 @@
-![Screenshot 2025-02-06 020937](https://github.com/user-attachments/assets/5e9956d9-1fcc-47cd-a5d9-92eaa9080aeb)# Image Recognition Using TensorFlow
+# Image Recognition Using TensorFlow
 
 ## Overview
 This project demonstrates an image recognition system trained using **Teachable Machine by Google**. The trained model is exported in TensorFlow format and integrated into a Python script that loads the model, processes input images, and predicts their class.
